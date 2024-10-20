@@ -1,5 +1,5 @@
 Flask==2.3.3
 Flask-RESTful==0.3.9
-smtplib==1.0.0
+smtplib
 email==6.0.0
 gunicorn==21.2.0
